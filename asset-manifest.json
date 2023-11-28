@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Face-Recognition-React-app/static/css/main.8c7b9595.css",
+    "main.js": "/Face-Recognition-React-app/static/js/main.77299aca.js",
+    "static/js/787.87e197a9.chunk.js": "/Face-Recognition-React-app/static/js/787.87e197a9.chunk.js",
+    "static/media/facer.png": "/Face-Recognition-React-app/static/media/facer.dc3c633e9f7525849b26.png",
+    "index.html": "/Face-Recognition-React-app/index.html",
+    "main.8c7b9595.css.map": "/Face-Recognition-React-app/static/css/main.8c7b9595.css.map",
+    "main.77299aca.js.map": "/Face-Recognition-React-app/static/js/main.77299aca.js.map",
+    "787.87e197a9.chunk.js.map": "/Face-Recognition-React-app/static/js/787.87e197a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c7b9595.css",
+    "static/js/main.77299aca.js"
+  ]
+}
